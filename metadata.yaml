@@ -1,0 +1,31 @@
+_repo: The-Romance-of-Names_24374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weekley, Ernest
+    birthdate: 1865
+    deathdate: 1954
+    gutenberg_agent_id: '26146'
+    url: http://www.gutenberg.org/2009/agents/26146
+description: '"My aim has been to steer a clear course between a too learned and a
+  too superficial treatment, and rather to show how surnames are formed than to adduce
+  innumerable examples which the reader should be able to solve for himself... The
+  subject matter is divided into a number of rather short chapters, dealing with the
+  various classes and subdivisions into which surnames fall; but the natural association
+  which exists between names has often prevailed over rigid classification"--Pref.'
+gutenberg_issued: '2008-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Names, Personal -- English'
+- !lcc 'CS'
+title: The Romance of Names
+url: http://www.gutenberg.org/ebooks/24374
